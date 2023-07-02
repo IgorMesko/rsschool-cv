@@ -43,3 +43,16 @@ function anagram(arr) {
 * Flexible;
 * Creative. 
 ***
+## Courses:
+* 2022 - Computer science basic (Vitali Shulha, EPAM learning platform);
+* 2022 - Redev course/
+***
+## Languages:
+* Belarusian/Russian – native;
+* English – B1.
+***
+## Education:
+Belarusian National Technical University, Minsk (2010 - 2015)
+***
+## Working experience:
+2015 - present time - Engineer at JSC “Peleng”.
