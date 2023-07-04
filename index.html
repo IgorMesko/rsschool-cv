@@ -2,16 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="img/icons8-cv-32.png" type="image/x-icon">
-    <link rel="preconnect" href="https://fonts.gstatic.com">  
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
-    <title>cv</title>
+    <title>CV</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="img/icons8-cv-32.png">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
 </head>
 <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
+    <header class="header">
+        <div class="container header-container">
+            <nav class="nav">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                  <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
+                  <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#english" class="nav-link">English</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main">
+        <div class="container main-container">
+            <section class="section-profile" id="profile">
+                <img src="" alt="photo" class="section-profile-logo">
+                <div class="section-profile-title">
+                    <h1 class="main-title">Ihar Mesko</h1>
+                    <h3 class="main-subtitle">Junior Front-End Developer</h3>
+                </div>
+            </section>
+            <section class="section" id="contacts"></section>
+            <section class="section" id="summary"></section>
+            <section class="section" id="skills"></section>
+            <section class="section" id="code"></section>
+            <section class="section" id="courses"></section>
+            <section class="section" id="projects"></section>
+            <section class="section" id="education"></section>
+            <section class="section" id="languages"></section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-year">© 2023<a href="https://github.com/IgorMesko" class="github-link">IgorMesko</a></div>
+            <a href="https://rs.school/js/" class="rss"></a>
+        </div>
+    </footer>
 </body>
 </html>
