@@ -69,7 +69,7 @@ header {
 }
 
 .section-title {
-    margin-bottom: 20px;  
+    margin-bottom: 20px;
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
@@ -154,7 +154,7 @@ header {
     border-bottom: 0;
 }
 
-.section-courses 
+.section-courses
 {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -225,7 +225,6 @@ footer {
 }
 
 .rss {
-    background-image: url("./assets/vectorpaint.svg");
     width: 121px;
     height: 45px;
     background-size: contain;
