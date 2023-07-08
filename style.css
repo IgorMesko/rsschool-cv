@@ -17,7 +17,7 @@ body {
 }
 
 header {
-  background-color: #829985;
+  background-color: #028e8f;
 }
 
 .container {
@@ -69,12 +69,12 @@ header {
 }
 
 .section-title {
-  margin-bottom: 20px;  
+  margin-bottom: 20px;
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 5px;
-  color: #829985;
+  color: #860d74;
 }
 
 .section-profile {
@@ -82,7 +82,7 @@ header {
   justify-content: space-around;
   width: 100%;
   padding: 50px 30px 35px;
-  border-bottom: 15px solid #d7d1c9;
+  border-bottom: 15px solid #c28510;
 }
 
 .section-profile-logo {
@@ -105,7 +105,6 @@ header {
   position: relative;
   padding: 0;
   margin-bottom: 20px;
-  color: #4d2323;
   font-size: 32px;
   font-weight: 300;
   letter-spacing: 10px;
@@ -126,7 +125,6 @@ header {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
 }
 
 .code {
@@ -134,7 +132,6 @@ header {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
 }
 
 .section-education {
@@ -142,7 +139,6 @@ header {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
 }
 
 .section-languages {
@@ -150,17 +146,15 @@ header {
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
   border-bottom: 0;
 }
 
-.section-courses 
+.section-courses
 {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.5;
-  color: #4d2323;
 }
 
 .section-list {
@@ -195,11 +189,10 @@ header {
   line-height: 1.5;
   text-decoration: none;
   cursor: pointer;
-  color: #4d2323;
 }
 
 footer {
-  background-color: #829985;
+  background-color: #028e8f;
   padding: 20px;
 }
 
